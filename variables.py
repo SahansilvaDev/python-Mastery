@@ -18,3 +18,9 @@ mango = apple = banana = 50
 print(name)
 print(age)
 print(weight)
+
+
+#variable names are case-sensitive
+#variable names must start with a letter or an underscore character
+
+
