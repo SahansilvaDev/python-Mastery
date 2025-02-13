@@ -44,3 +44,6 @@ print(a.imag)
 #complex(1,2) is equivalent to 1+2j
 #complex(real,imaginary)
 a =complex(1,2)
+
+
+# python is dynamically typed language - we don't need to specify the data type of the variable
