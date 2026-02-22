@@ -1,0 +1,3 @@
+calculator.py - 2026-02-09 14:02:38,011 - INFO - Adding 10 and 0 to get 10
+calculator.py - 2026-02-09 14:02:38,011 - INFO - Subtracting 0 from 10 to get 10
+calculator.py - 2026-02-09 14:02:38,011 - ERROR - Division by zero is not allowed.

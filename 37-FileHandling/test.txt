@@ -1,0 +1,2 @@
+Hello, this is from python script file write method
+this to test.txt using append mode
